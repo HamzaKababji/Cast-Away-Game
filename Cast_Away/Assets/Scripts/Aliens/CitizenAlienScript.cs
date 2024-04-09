@@ -24,7 +24,7 @@ public class CitizenAlienScript : BaseAlienScript
         acts.Add(new Move("Flatter", 40, "Emotional", $"You wink at {Species} and tell him he looks like a million bucks", $"{Species}: In this economy??? Stopppp ;)", $"{Species}: Uhhh.... I have a boyfriend..."));
         this.order = new string[3];
         this.order[0] = "Flatter";
-        this.order[1] = "Discuss Taxes";
+        this.order[1] = "Talk Taxes";
         this.order[2] = "Insult";
         this.stage = 0;
     }
