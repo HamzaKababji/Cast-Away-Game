@@ -19,9 +19,11 @@ The main “rules” of the game is that the player will be able to fight or fle
 
 ## Demo of the Game
 
-<!--
-TODO a video run through of the game (The same one we will use for the Final Documentation)
--->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=-8fT05uIsSg">
+    <img src="https://img.youtube.com/vi/-8fT05uIsSg/0.jpg" alt="DemoVideo">
+  </a>
+</p>
 
 ## How to play the game (Windows 64-bit)
 
